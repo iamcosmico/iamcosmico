@@ -1,5 +1,5 @@
 <h1 align="center">Hi ツ, I'm Sarthak Rakecha</h1>
-<h3 align="center">• Aspiring Computer Engineer | Committed Profound Focus & Problem Solving | Proficient Java-HTML5-PHP | SQL | Python | .NET • Business | Finance | Project Management</h3>
+<h3 align="center">• Computer Engineer | Committed Profound Focus & Problem Solving | Proficient Java-HTML5-PHP | SQL | Python | .NET • Business | Finance | Project Management</h3>
 
 - I Consistently Contribute Articles To Share Insights On [Linkedin](Linkedin)
 
